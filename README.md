@@ -2,4 +2,4 @@
 
 Materials to help prepare for the French second language equivalency exams.
 
-Focusing on oral.
+Focusing on oral exam.
